@@ -1,0 +1,35 @@
+Aaaoge jab tum
+┌─────────┬─────────────────────┬─────┬──────────┐
+│ (index) │ name                │ age │ gender   │
+├─────────┼─────────────────────┼─────┼──────────┤
+│ 0       │ 'Aarav Patil'       │ 25  │ 'Male'   │
+│ 1       │ 'Vedika Joshi'      │ 24  │ 'Female' │
+│ 2       │ 'Pranav Deshmukh'   │ 27  │ 'Male'   │
+│ 3       │ 'Tanvi Bhosale'     │ 26  │ 'Female' │
+│ 4       │ 'Omkar Pawar'       │ 29  │ 'Male'   │
+│ 5       │ 'Isha Kulkarni'     │ 23  │ 'Female' │
+│ 6       │ 'Rohit Shinde'      │ 28  │ 'Male'   │
+│ 7       │ 'Swara Jadhav'      │ 22  │ 'Female' │
+│ 8       │ 'Aditya Chavan'     │ 30  │ 'Male'   │
+│ 9       │ 'Kavya Sathe'       │ 25  │ 'Female' │
+│ 10      │ 'Siddharth Kothari' │ 27  │ 'Male'   │
+│ 11      │ 'Sneha More'        │ 24  │ 'Female' │
+│ 12      │ 'Aniket Ingle'      │ 31  │ 'Male'   │
+│ 13      │ 'Prachi Sawant'     │ 26  │ 'Female' │
+│ 14      │ 'Nikhil Gawande'    │ 28  │ 'Male'   │
+│ 15      │ 'Anushka Mahajan'   │ 23  │ 'Female' │
+│ 16      │ 'Harshad Gaikwad'   │ 32  │ 'Male'   │
+│ 17      │ 'Rutuja Salunke'    │ 25  │ 'Female' │
+│ 18      │ 'Akshay Mhatre'     │ 27  │ 'Male'   │
+│ 19      │ 'Vaishnavi Apte'    │ 24  │ 'Female' │
+│ 20      │ 'Kunal Naik'        │ 29  │ 'Male'   │
+│ 21      │ 'Asmita Bhise'      │ 23  │ 'Female' │
+│ 22      │ 'Ramesh Lokhande'   │ 34  │ 'Male'   │
+│ 23      │ 'Pooja Phadke'      │ 26  │ 'Female' │
+│ 24      │ 'Vivek Waghmare'    │ 28  │ 'Male'   │
+│ 25      │ 'Meera Gadgil'      │ 25  │ 'Female' │
+│ 26      │ 'Yashwant Karve'    │ 33  │ 'Male'   │
+│ 27      │ 'Smita Lele'        │ 24  │ 'Female' │
+│ 28      │ 'Tejas Khedekar'    │ 31  │ 'Male'   │
+│ 29      │ 'Manasi Pansare'    │ 23  │ 'Female' │
+└─────────┴─────────────────────┴─────┴──────────┘

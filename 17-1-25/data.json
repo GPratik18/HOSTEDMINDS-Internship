@@ -1,0 +1,143 @@
+[
+    {
+      "name": "Alice Smith",
+      "DOB": "2002-05-15",
+      "sscMarks": 89,
+      "hscMarks": 76,
+      "branchOfStudy": "Computer Science"
+    },
+    {
+      "name": "Bob Johnson",
+      "DOB": "2003-01-22",
+      "sscMarks": 92,
+      "hscMarks": 84,
+      "branchOfStudy": "Electrical Engineering"
+    },
+    {
+      "name": "Catherine Brown",
+      "DOB": "2001-08-12",
+      "sscMarks": 85,
+      "hscMarks": 72,
+      "branchOfStudy": "Mechanical Engineering"
+    },
+    {
+      "name": "Daniel White",
+      "DOB": "2002-11-05",
+      "sscMarks": 88,
+      "hscMarks": 79,
+      "branchOfStudy": "Civil Engineering"
+    },
+    {
+      "name": "Emma Taylor",
+      "DOB": "2000-03-30",
+      "sscMarks": 90,
+      "hscMarks": 88,
+      "branchOfStudy": "Information Technology"
+    },
+    {
+      "name": "Frank Moore",
+      "DOB": "2001-06-18",
+      "sscMarks": 87,
+      "hscMarks": 80,
+      "branchOfStudy": "Electronics"
+    },
+    {
+      "name": "Grace Lee",
+      "DOB": "2002-09-27",
+      "sscMarks": 91,
+      "hscMarks": 85,
+      "branchOfStudy": "Biomedical Engineering"
+    },
+    {
+      "name": "Henry Walker",
+      "DOB": "2003-02-14",
+      "sscMarks": 86,
+      "hscMarks": 75,
+      "branchOfStudy": "Aeronautical Engineering"
+    },
+    {
+      "name": "Isabella Martinez",
+      "DOB": "2001-04-03",
+      "sscMarks": 89,
+      "hscMarks": 77,
+      "branchOfStudy": "Chemical Engineering"
+    },
+    {
+      "name": "Jack Robinson",
+      "DOB": "2002-12-20",
+      "sscMarks": 93,
+      "hscMarks": 90,
+      "branchOfStudy": "Computer Science"
+    },
+    {
+      "name": "Kimberly Hall",
+      "DOB": "2003-10-10",
+      "sscMarks": 84,
+      "hscMarks": 70,
+      "branchOfStudy": "Mechanical Engineering"
+    },
+    {
+      "name": "Liam Allen",
+      "DOB": "2000-07-25",
+      "sscMarks": 88,
+      "hscMarks": 78,
+      "branchOfStudy": "Electrical Engineering"
+    },
+    {
+      "name": "Mia Young",
+      "DOB": "2001-09-11",
+      "sscMarks": 87,
+      "hscMarks": 82,
+      "branchOfStudy": "Civil Engineering"
+    },
+    {
+      "name": "Noah King",
+      "DOB": "2002-05-19",
+      "sscMarks": 90,
+      "hscMarks": 83,
+      "branchOfStudy": "Information Technology"
+    },
+    {
+      "name": "Olivia Wright",
+      "DOB": "2003-03-05",
+      "sscMarks": 85,
+      "hscMarks": 74,
+      "branchOfStudy": "Biomedical Engineering"
+    },
+    {
+      "name": "Peter Scott",
+      "DOB": "2001-02-20",
+      "sscMarks": 86,
+      "hscMarks": 81,
+      "branchOfStudy": "Chemical Engineering"
+    },
+    {
+      "name": "Quinn Adams",
+      "DOB": "2002-06-10",
+      "sscMarks": 92,
+      "hscMarks": 89,
+      "branchOfStudy": "Computer Science"
+    },
+    {
+      "name": "Ruby Nelson",
+      "DOB": "2003-07-17",
+      "sscMarks": 83,
+      "hscMarks": 69,
+      "branchOfStudy": "Electronics"
+    },
+    {
+      "name": "Sophia Baker",
+      "DOB": "2000-12-01",
+      "sscMarks": 91,
+      "hscMarks": 86,
+      "branchOfStudy": "Aeronautical Engineering"
+    },
+    {
+      "name": "Thomas Clark",
+      "DOB": "2001-11-08",
+      "sscMarks": 89,
+      "hscMarks": 78,
+      "branchOfStudy": "Mechanical Engineering"
+    }
+  ]
+  
